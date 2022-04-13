@@ -37,6 +37,11 @@ Tested all open ports, also tested the closed port from Facebook.com, but that d
 Created a new Git Repo, cloned it using terminal, edited the README.md file in VSCODE, and commited the edit using terminal after saving on VsCode.
 
 To upload the photos, after commiting the changes to the document to github, i edited the file on Git, then dragged and dropped the photo on the editor to upload it.
+<img width="1148" alt="Screenshot 2022-04-12 at 20 18 57" src="https://user-images.githubusercontent.com/85462184/163120594-6cea4625-d3d2-4c68-a95d-b87240547cf3.png">
+<img width="592" alt="Screenshot 2022-04-12 at 21 03 14" src="https://user-images.githubusercontent.com/85462184/163120801-1a57f54e-4af8-4295-91a8-579f2d932b30.png">
+<img width="579" alt="Screenshot 2022-04-12 at 20 52 10" src="https://user-images.githubusercontent.com/85462184/163120844-a784b499-2a5f-486d-bab0-bae950ad53a9.png">
+
+
 
 Problem 2
 
@@ -52,3 +57,6 @@ After scanning, I got the following open ports;
 62078 - iPhone-sync
 
 I was able to connect to these ports successfully using Netcat on terminal.
+<img width="1440" alt="Screenshot 2022-04-12 at 21 09 15" src="https://user-images.githubusercontent.com/85462184/163120417-f3f81ce9-d3ec-43d1-b98c-a5f6cfe2808e.png">
+<img width="586" alt="Screenshot 2022-04-12 at 21 05 41" src="https://user-images.githubusercontent.com/85462184/163120466-7654a8c4-6560-489f-9280-7c0809678a02.png">
+
