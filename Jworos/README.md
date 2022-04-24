@@ -1,12 +1,13 @@
 # 1.
-Problem 1;
+## Problem 1;
 
 Sent icmp packets (Ping) to these sites using terminal, and retrieved their static IP addresses;
 
-Google.com - 216.58.223.238
-Facebook.com - 102.132.101.35
-Amazon.com - 176.32.103.205
-herokuapp.com - 54.160.84.228
+### Google.com - 216.58.223.238
+
+#### Facebook.com - 102.132.101.35
+#### Amazon.com - 176.32.103.205
+#### Herokuapp.com - 54.160.84.228
 Scanned the ports of the sites using the Zenmap standalone app, and connected successfully to all the ports using terminal.
 
 Ports on Google.com
@@ -43,7 +44,7 @@ To upload the photos, after commiting the changes to the document to github, i e
 
 
 
-Problem 2
+## Problem 2
 
 For this problem, I connected my phone to my computer using Xender, then I scanned the IP address from Xender connecting my Pc and Phone using Zenmap app.
 
@@ -60,7 +61,7 @@ I was able to connect to these ports successfully using Netcat on terminal.
 <img width="1440" alt="Screenshot 2022-04-12 at 21 09 15" src="https://user-images.githubusercontent.com/85462184/163120417-f3f81ce9-d3ec-43d1-b98c-a5f6cfe2808e.png">
 <img width="586" alt="Screenshot 2022-04-12 at 21 05 41" src="https://user-images.githubusercontent.com/85462184/163120466-7654a8c4-6560-489f-9280-7c0809678a02.png">
 
-Problem 3
+## Problem 3
 
 First i downloaded iSH app on my iOS device, and Termux app on my android device, i opened a port on my Android device via Termux and connected to the open port using iSH app on the iOS device, everything worked smoothly, i was able to send messages back and forth.
 ![IMG_1006](https://user-images.githubusercontent.com/85462184/164911487-1e5ae824-3d84-41cf-a83a-f48a485124d0.PNG)
