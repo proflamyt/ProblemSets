@@ -60,3 +60,16 @@ I was able to connect to these ports successfully using Netcat on terminal.
 <img width="1440" alt="Screenshot 2022-04-12 at 21 09 15" src="https://user-images.githubusercontent.com/85462184/163120417-f3f81ce9-d3ec-43d1-b98c-a5f6cfe2808e.png">
 <img width="586" alt="Screenshot 2022-04-12 at 21 05 41" src="https://user-images.githubusercontent.com/85462184/163120466-7654a8c4-6560-489f-9280-7c0809678a02.png">
 
+Problem 3
+
+First i downloaded iSH app on my iOS device, and Termux app on my android device, i opened a port on my Android device via Termux and connected to the open port using iSH app on the iOS device, everything worked smoothly, i was able to send messages back and forth.
+![IMG_1006](https://user-images.githubusercontent.com/85462184/164911487-1e5ae824-3d84-41cf-a83a-f48a485124d0.PNG)
+![Screenshot_2022-04-22-18-14-16-760_com termux](https://user-images.githubusercontent.com/85462184/164911616-03d3fe19-4d10-4bf1-9986-a4e2a4ae36d1.jpg)
+
+On my Mac Pc, i had issues using the Netcat command, initially, i used "nc" command when trying to open a port, but after some research, i found the correct command to use, which was "ncat".
+
+Afer getting the command right, everything worked perfectly.
+![IMG_1093](https://user-images.githubusercontent.com/85462184/164911424-81025bb4-d67c-4172-bbdc-136ce080670c.PNG)
+
+
+<img width="1047" alt="Screenshot 2022-04-23 at 15 30 52 1" src="https://user-images.githubusercontent.com/85462184/164911381-6b09e561-d7e1-42c4-902e-ce15395c3557.png">
