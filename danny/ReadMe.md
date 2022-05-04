@@ -34,4 +34,20 @@ Lastly, we followed the HTTPS protocol stream to listen to some of the conversat
 
 
 
+
 OUR THIRD ASSIGNMENT
+DEAUTHENTICATION USING THE AIRCRACK SUITE IN KALI LINUX
+
+TO start with, we typed iwconfig in the terminal and look for your wireless card (and change the default mode to monitor.
+![alt text](https://github.com/danilexy/ProblemSets-1/blob/main/danny/pictures/deauth1.jpg)
+
+Now run iwconfig again to verify that our interface’s name has changed and that it is indeed in Monitor mode.
+![alt text](https://github.com/danilexy/ProblemSets-1/blob/main/danny/pictures/deauth2.png)
+
+Then,we visualize all Access Points and clients around us and choosing a target
+![alt text](https://github.com/danilexy/ProblemSets-1/blob/main/danny/pictures/deauth3.png)
+
+Once we have located our target AP we will take note of the MAC address (bssid) and the channel it is broadcasting on.
+![alt text](https://github.com/danilexy/ProblemSets-1/blob/main/danny/pictures/deauth5.png)
+
+
