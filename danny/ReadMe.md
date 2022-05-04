@@ -45,9 +45,10 @@ Now run iwconfig again to verify that our interface’s name has changed and tha
 ![alt text](https://github.com/danilexy/ProblemSets-1/blob/main/danny/pictures/deauth2.png)
 
 Then,we visualize all Access Points and clients around us and choosing a target
+Once we have located our target AP we will take note of the MAC address (bssid) and the channel it is broadcasting on.
 ![alt text](https://github.com/danilexy/ProblemSets-1/blob/main/danny/pictures/deauth3.png)
 
-Once we have located our target AP we will take note of the MAC address (bssid) and the channel it is broadcasting on.
+Once we have selected a client we wish to disassociate, we will run our deauth attack using aireplay-ng
 ![alt text](https://github.com/danilexy/ProblemSets-1/blob/main/danny/pictures/deauth5.png)
 
 
