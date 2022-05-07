@@ -67,6 +67,13 @@ STEP4: Create new string value Edit the name to what you want
 
 STEP5: Modify the value data to program path ypu want to run on boot
 ![alt text](https://github.com/danilexy/ProblemSets-1/blob/main/danny/pictures/r5.png)
-![alt text](https://github.com/danilexy/ProblemSets-1/blob/main/danny/pictures/r6.png)
 
-STEP6: Restart your PC
+STEP7: Go to the file location of the the application you want to run
+![alt text](https://github.com/danilexy/ProblemSets-1/blob/main/danny/pictures/r7.png)
+
+STEP8: Copy the file and add the file path together with the (.exe) file
+![alt text](https://github.com/danilexy/ProblemSets-1/blob/main/danny/pictures/r7.png)
+![alt text](https://github.com/danilexy/ProblemSets-1/blob/main/danny/pictures/r8.png)
+
+
+STEP9: Restart your PC
