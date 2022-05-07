@@ -52,3 +52,21 @@ Once we have selected a client we wish to disassociate, we will run our deauth a
 ![alt text](https://github.com/danilexy/ProblemSets-1/blob/main/danny/pictures/deauth5.png)
 
 
+#OUR FOURTH ASSIGNMENT
+STEP1: Load your Run dialog box using WIN + R
+![alt text](https://github.com/danilexy/ProblemSets-1/blob/main/danny/pictures/r1.png)
+
+STEP2: Then type the command gpedit.msc
+![alt text](https://github.com/danilexy/ProblemSets-1/blob/main/danny/pictures/r2.png)
+
+STEP3: Click on the HKEY_LOCAL_MACHINE and go to address bar and add \SOFTWARE\Microsoft\Windows\CurrentVersion\Run.
+![alt text](https://github.com/danilexy/ProblemSets-1/blob/main/danny/pictures/r3.png)
+
+STEP4: Create new string value Edit the name to what you want
+![alt text](https://github.com/danilexy/ProblemSets-1/blob/main/danny/pictures/r4.png)
+
+STEP5: Modify the value data to program path ypu want to run on boot
+![alt text](https://github.com/danilexy/ProblemSets-1/blob/main/danny/pictures/r5.png)
+![alt text](https://github.com/danilexy/ProblemSets-1/blob/main/danny/pictures/r6.png)
+
+STEP6: Restart your PC
