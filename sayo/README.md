@@ -49,3 +49,27 @@ How to know the network to attack - sudo nmap 192.168.43.0-255
 To confirm the attack arp -a
 
 ![alt text](https://github.com/lucassayodemi/ProblemSets/blob/main/sayo/picture/c3.png)
+
+
+
+### Deauth Attack
+
+# Having the wireless card to engage into monitor mode
+
+# Type iwconfig in the terminal and look for your wireless card (Typically called wlan0)
+
+#  To get the card into monitor mode we will run the airmon-ng program of the aircrack-ng suite.
+
+# In the terminal type: airmon-ng check kill (This will kill any processes that might interfere with the desired functionality)
+
+![alt text](https://github.com/lucassayodemi/ProblemSets/blob/main/sayo/picture/b1.png)
+
+# Now type airmon-ng start wlan0 
+
+![alt text](https://github.com/lucassayodemi/ProblemSets/blob/main/sayo/picture/b2.png)
+
+![alt text](https://github.com/lucassayodemi/ProblemSets/blob/main/sayo/picture/b3.png)
+
+![alt text](https://github.com/lucassayodemi/ProblemSets/blob/main/sayo/picture/b4.png)
+
+![alt text](https://github.com/lucassayodemi/ProblemSets/blob/main/sayo/picture/b5.png)
