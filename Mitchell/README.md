@@ -1,3 +1,4 @@
+### REGISTRY
 ##### I pressed Windows key + R. In the run box, I typed regedit, and press enter.
 ##### I Pasted the path in the address bar: Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run.
 ##### Right click on run and create new string value Edit the name to what you want and modify the value data to program path ypu want to run on boot
