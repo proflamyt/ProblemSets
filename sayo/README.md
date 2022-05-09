@@ -73,3 +73,11 @@ To confirm the attack arp -a
 ![alt text](https://github.com/lucassayodemi/ProblemSets/blob/main/sayo/picture/b4.png)
 
 ![alt text](https://github.com/lucassayodemi/ProblemSets/blob/main/sayo/picture/b5.png)
+
+
+
+### Operating System
+
+![alt text](https://github.com/lucassayodemi/ProblemSets/blob/main/sayo/picture/WhatsApp%20Image%202022-05-08%20at%207.14.56%20PM.jpeg)
+![alt text](https://github.com/lucassayodemi/ProblemSets/blob/main/sayo/picture/WhatsApp%20Image%202022-05-08%20at%207.14.56%20PM(2).jpeg)
+![alt text](https://github.com/lucassayodemi/ProblemSets/blob/main/sayo/picture/WhatsApp%20Image%202022-05-08%20at%207.14.56%20PM(1).jpeg)
