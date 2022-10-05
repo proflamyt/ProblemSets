@@ -1,0 +1,6 @@
+check50:
+  checks:
+    hello world:
+      - run: bash hello
+        stdout: Hello, world!
+        exit: 0
